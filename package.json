@@ -1,0 +1,23 @@
+{
+  "name": "roll_no_229060_rushikesh_pise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piserushikesh/Roll_no_229060_Rushikesh_pise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piserushikesh/Roll_no_229060_Rushikesh_pise/issues"
+  },
+  "homepage": "https://github.com/piserushikesh/Roll_no_229060_Rushikesh_pise#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.3.0"
+  }
+}
